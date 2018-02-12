@@ -1,0 +1,7 @@
+{
+	"Command": [
+		"gauge",
+		"run",
+		"specs/searchWithContextAndTearDown.spec:14"
+	]
+}
